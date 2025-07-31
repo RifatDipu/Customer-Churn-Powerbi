@@ -35,7 +35,7 @@ The main goal of this project is to identify patterns and insights related to cu
 
 ## 📁 Files
 
-- `Customer Churn.pbix`: Power BI dashboard file *(not included in this repo)*
+- `Customer Churn Analysis.pbix`: Power BI dashboard file
 - `Customer Churn.jpeg`: Dashboard image preview
 
 ## 🚀 How to Use
