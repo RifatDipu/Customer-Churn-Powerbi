@@ -33,15 +33,10 @@ The main goal of this project is to identify patterns and insights related to cu
 - Power BI
 - Microsoft Excel (for initial data prep)
 
-## 📁 Files
-
-- `Customer Churn Analysis.pbix`: Power BI dashboard file
-- `Customer Churn.jpeg`: Dashboard image preview
-
 ## 🚀 How to Use
 
 1. Clone the repository.
-2. Open the `.pbix` file in Power BI Desktop (if available).
+2. Open the `.pbix` file in Power BI Desktop.
 3. Interact with the dashboard to explore customer churn patterns.
 
 ## 📬 Contact
